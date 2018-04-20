@@ -5,7 +5,7 @@ const expect = require('chai').expect;
 const adder = require('../adder');
 
 // unit tests for our `adder` function
-describe('adder', function() {
+describe('the adder function', function() {
 
   // test the normal case
   it('should add two numbers', function() {
